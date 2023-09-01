@@ -1,691 +1,690 @@
 [
     {
-     "Code": 2350262,
-     "Gencod": 3428272110024,
-     "Nom": "LT UHT BIO 1,2% MAT.LEG.BTLEX6",
-     "Conditionnement": 1,
-     "VMS": 14.2,
-     "Stock": 12,
-     "image": "https://cdn.discordapp.com/attachments/1133274360354967554/1147158961393512538/images.png"
-    },
-    {
-     "Code": 2073500,
-     "Gencod": 3428271160075,
-     "Nom": "LT UHT BIO 1,2%M.LEG.BLE6X50CL",
-     "Conditionnement": 1,
-     "VMS": 8.2,
-     "Stock": 7
-    },
-    {
-     "Code": 2754893,
-     "Gencod": 3428274050120,
-     "Nom": "LT UHT 1\/2E.BIO LACT.BLE6X25CL",
-     "Conditionnement": 1,
-     "VMS": 8.9,
-     "Stock": 10
-    },
-    {
-     "Code": 1999374,
-     "Gencod": 3428273090028,
-     "Nom": "LT UHT ECR.MAT.LEGER BLE6X50CL",
-     "Conditionnement": 1,
-     "VMS": 4,
-     "Stock": 2
-    },
-    {
-     "Code": 7536917,
-     "Gencod": 3256224761075,
-     "Nom": "LAIT UHT 1\/2EC.FAC.DIGER.U6X1L",
-     "Conditionnement": 1,
-     "VMS": 8.4,
-     "Stock": 8
-    },
-    {
-     "Code": 1254022,
-     "Gencod": 0,
-     "Nom": "LT UHT 1,2% MAT.LEG.BLE 6X50CL",
-     "Conditionnement": 1,
-     "VMS": 14.2,
-     "Stock": 10
-    },
-    {
-     "Code": 5552891,
-     "Gencod": 0,
-     "Nom": "LT UHT BIO 0% MAT.LEG.BTLEX6",
-     "Conditionnement": 1,
-     "VMS": 2.6,
-     "Stock": 6
-    },
-    {
-     "Code": 3843241,
-     "Gencod": 0,
-     "Nom": "LAIT UHT 1\/2ECREM.BBC U 6X25CL",
-     "Conditionnement": 4,
-     "VMS": 27.2,
-     "Stock": 19
-    },
-    {
-     "Code": 5871390,
-     "Gencod": 0,
-     "Nom": "LT UHT BIO ECREME UBIO BT 6X1L",
-     "Conditionnement": 1,
-     "VMS": 11.3,
-     "Stock": 11
-    },
-    {
-     "Code": 5926913,
-     "Gencod": 0,
-     "Nom": "LT UHT 1\/2E.BREBIS LACTEL 6X1L",
-     "Conditionnement": 1,
-     "VMS": 2.9,
-     "Stock": 3
-    },
-    {
-     "Code": 5014816,
-     "Gencod": 0,
-     "Nom": "LAIT UHT ENTIER LACTEL 6X25CL",
-     "Conditionnement": 1,
-     "VMS": 2,
-     "Stock": 1
-    },
-    {
-     "Code": 786039,
-     "Gencod": 0,
-     "Nom": "LAIT UHT ENT.LACTEL BLE 6X50CL",
-     "Conditionnement": 1,
-     "VMS": 6.5,
-     "Stock": 10
-    },
-    {
-     "Code": 485052,
-     "Gencod": 0,
-     "Nom": "LAIT UHT 1\/2E.LACTEL BLE6X25CL",
-     "Conditionnement": 1,
-     "VMS": 3,
-     "Stock": 5
+        "Code": 2350262,
+        "Gencod": 3428272110024,
+        "Nom": "LT UHT BIO 1,2% MAT.LEG.BTLEX6",
+        "Conditionnement": 1,
+        "VMS": 14.2,
+        "Stock": 12
+    },
+    {
+        "Code": 2073500,
+        "Gencod": 3428271160075,
+        "Nom": "LT UHT BIO 1,2%M.LEG.BLE6X50CL",
+        "Conditionnement": 1,
+        "VMS": 8.2,
+        "Stock": 7
+    },
+    {
+        "Code": 2754893,
+        "Gencod": 3428274050120,
+        "Nom": "LT UHT 1/2E.BIO LACT.BLE6X25CL",
+        "Conditionnement": 1,
+        "VMS": 8.9,
+        "Stock": 10
+    },
+    {
+        "Code": 1999374,
+        "Gencod": 3428273090028,
+        "Nom": "LT UHT ECR.MAT.LEGER BLE6X50CL",
+        "Conditionnement": 1,
+        "VMS": 4,
+        "Stock": 2
+    },
+    {
+        "Code": 7536917,
+        "Gencod": 3256224761075,
+        "Nom": "LAIT UHT 1/2EC.FAC.DIGER.U6X1L",
+        "Conditionnement": 1,
+        "VMS": 8.4,
+        "Stock": 8
+    },
+    {
+        "Code": 1254022,
+        "Gencod": 0,
+        "Nom": "LT UHT 1,2% MAT.LEG.BLE 6X50CL",
+        "Conditionnement": 1,
+        "VMS": 14.2,
+        "Stock": 10
+    },
+    {
+        "Code": 5552891,
+        "Gencod": 0,
+        "Nom": "LT UHT BIO 0% MAT.LEG.BTLEX6",
+        "Conditionnement": 1,
+        "VMS": 2.6,
+        "Stock": 6
+    },
+    {
+        "Code": 3843241,
+        "Gencod": 0,
+        "Nom": "LAIT UHT 1/2ECREM.BBC U 6X25CL",
+        "Conditionnement": 4,
+        "VMS": 27.2,
+        "Stock": 19
+    },
+    {
+        "Code": 5871390,
+        "Gencod": 0,
+        "Nom": "LT UHT BIO ECREME UBIO BT 6X1L",
+        "Conditionnement": 1,
+        "VMS": 11.3,
+        "Stock": 11
+    },
+    {
+        "Code": 5926913,
+        "Gencod": 0,
+        "Nom": "LT UHT 1/2E.BREBIS LACTEL 6X1L",
+        "Conditionnement": 1,
+        "VMS": 2.9,
+        "Stock": 3
+    },
+    {
+        "Code": 5014816,
+        "Gencod": 0,
+        "Nom": "LAIT UHT ENTIER LACTEL 6X25CL",
+        "Conditionnement": 1,
+        "VMS": 2,
+        "Stock": 1
+    },
+    {
+        "Code": 786039,
+        "Gencod": 0,
+        "Nom": "LAIT UHT ENT.LACTEL BLE 6X50CL",
+        "Conditionnement": 1,
+        "VMS": 6.5,
+        "Stock": 10
+    },
+    {
+        "Code": 485052,
+        "Gencod": 0,
+        "Nom": "LAIT UHT 1/2E.LACTEL BLE6X25CL",
+        "Conditionnement": 1,
+        "VMS": 3,
+        "Stock": 5
     },
     {
-     "Code": 6625755,
-     "Gencod": 0,
-     "Nom": "JEUNES AGRI 1\/2 ECREME BK 6X1L",
-     "Conditionnement": 1,
-     "VMS": 1.3,
-     "Stock": 3
+        "Code": 6625755,
+        "Gencod": 0,
+        "Nom": "JEUNES AGRI 1/2 ECREME BK 6X1L",
+        "Conditionnement": 1,
+        "VMS": 1.3,
+        "Stock": 3
     },
     {
-     "Code": 5194892,
-     "Gencod": 0,
-     "Nom": "CANDIA BIO 1\/2ECREME BK 6X1L",
-     "Conditionnement": 1,
-     "VMS": 5.2,
-     "Stock": 8
+        "Code": 5194892,
+        "Gencod": 0,
+        "Nom": "CANDIA BIO 1/2ECREME BK 6X1L",
+        "Conditionnement": 1,
+        "VMS": 5.2,
+        "Stock": 8
     },
     {
-     "Code": 5699566,
-     "Gencod": 0,
-     "Nom": "LT UHT E.BIO LACTEL BLE 6X50CL",
-     "Conditionnement": 1,
-     "VMS": 6,
-     "Stock": 5
+        "Code": 5699566,
+        "Gencod": 0,
+        "Nom": "LT UHT E.BIO LACTEL BLE 6X50CL",
+        "Conditionnement": 1,
+        "VMS": 6,
+        "Stock": 5
     },
     {
-     "Code": 1286290,
-     "Gencod": 0,
-     "Nom": "LT CONC.DEMI ECREME REGIL.410G",
-     "Conditionnement": 12,
-     "VMS": 2.3,
-     "Stock": 2
+        "Code": 1286290,
+        "Gencod": 0,
+        "Nom": "LT CONC.DEMI ECREME REGIL.410G",
+        "Conditionnement": 12,
+        "VMS": 2.3,
+        "Stock": 2
     },
     {
-     "Code": 5810632,
-     "Gencod": 0,
-     "Nom": "LT S\/LACTOSE 1%MG CANDIA 6X1L",
-     "Conditionnement": 1,
-     "VMS": 7,
-     "Stock": 6
+        "Code": 5810632,
+        "Gencod": 0,
+        "Nom": "LT S/LACTOSE 1%MG CANDIA 6X1L",
+        "Conditionnement": 1,
+        "VMS": 7,
+        "Stock": 6
     },
     {
-     "Code": 6316920,
-     "Gencod": 0,
-     "Nom": "LT UHT MAT.LEG.1,2% BLE 6X25CL",
-     "Conditionnement": 1,
-     "VMS": 5.1,
-     "Stock": 8
+        "Code": 6316920,
+        "Gencod": 0,
+        "Nom": "LT UHT MAT.LEG.1,2% BLE 6X25CL",
+        "Conditionnement": 1,
+        "VMS": 5.1,
+        "Stock": 8
     },
     {
-     "Code": 2492655,
-     "Gencod": 0,
-     "Nom": "CANDY'UP CHOCOLAT BK 12X20CL",
-     "Conditionnement": 2,
-     "VMS": 5.7,
-     "Stock": 7
+        "Code": 2492655,
+        "Gencod": 0,
+        "Nom": "CANDY'UP CHOCOLAT BK 12X20CL",
+        "Conditionnement": 2,
+        "VMS": 5.7,
+        "Stock": 7
     },
     {
-     "Code": 585556,
-     "Gencod": 0,
-     "Nom": "LAIT UHT 1\/2E. GDLAIT B.4X50CL",
-     "Conditionnement": 6,
-     "VMS": 8.9,
-     "Stock": 12
+        "Code": 585556,
+        "Gencod": 0,
+        "Nom": "LAIT UHT 1/2E. GDLAIT B.4X50CL",
+        "Conditionnement": 6,
+        "VMS": 8.9,
+        "Stock": 12
     },
     {
-     "Code": 786357,
-     "Gencod": 0,
-     "Nom": "LT UHT 1\/2E CHEV.LACTEL BL6X1L",
-     "Conditionnement": 1,
-     "VMS": 3.7,
-     "Stock": 6
+        "Code": 786357,
+        "Gencod": 0,
+        "Nom": "LT UHT 1/2E CHEV.LACTEL BL6X1L",
+        "Conditionnement": 1,
+        "VMS": 3.7,
+        "Stock": 6
     },
     {
-     "Code": 5913990,
-     "Gencod": 0,
-     "Nom": "GRANDLAIT BIO 1\/2 ECREME 6X1L",
-     "Conditionnement": 1,
-     "VMS": 5.3,
-     "Stock": 8
+        "Code": 5913990,
+        "Gencod": 0,
+        "Nom": "GRANDLAIT BIO 1/2 ECREME 6X1L",
+        "Conditionnement": 1,
+        "VMS": 5.3,
+        "Stock": 8
     },
     {
-     "Code": 7535973,
-     "Gencod": 0,
-     "Nom": "LT UHT 1\/2E.JUSTE LOIR.ATL.X6",
-     "Conditionnement": 1,
-     "VMS": 2.7,
-     "Stock": 6
+        "Code": 7535973,
+        "Gencod": 0,
+        "Nom": "LT UHT 1/2E.JUSTE LOIR.ATL.X6",
+        "Conditionnement": 1,
+        "VMS": 2.7,
+        "Stock": 6
     },
     {
-     "Code": 210471,
-     "Gencod": 0,
-     "Nom": "LT UHT 1\/2E.BIO LACT.BLE6X50CL",
-     "Conditionnement": 1,
-     "VMS": 9.9,
-     "Stock": 12
+        "Code": 210471,
+        "Gencod": 0,
+        "Nom": "LT UHT 1/2E.BIO LACT.BLE6X50CL",
+        "Conditionnement": 1,
+        "VMS": 9.9,
+        "Stock": 12
     },
     {
-     "Code": 2822433,
-     "Gencod": 0,
-     "Nom": "LT UHT ENT.BIO LACT.BLE 6X50CL",
-     "Conditionnement": 1,
-     "VMS": 6.5,
-     "Stock": 8
+        "Code": 2822433,
+        "Gencod": 0,
+        "Nom": "LT UHT ENT.BIO LACT.BLE 6X50CL",
+        "Conditionnement": 1,
+        "VMS": 6.5,
+        "Stock": 8
     },
     {
-     "Code": 4462604,
-     "Gencod": 0,
-     "Nom": "LT UHT 1\/2E.LACTEL BLE 6X50CL",
-     "Conditionnement": 1,
-     "VMS": 7.5,
-     "Stock": 13
+        "Code": 4462604,
+        "Gencod": 0,
+        "Nom": "LT UHT 1/2E.LACTEL BLE 6X50CL",
+        "Conditionnement": 1,
+        "VMS": 7.5,
+        "Stock": 13
     },
     {
-     "Code": 4411314,
-     "Gencod": 0,
-     "Nom": "LAIT CONCENTRE SUCRE NEST.165G",
-     "Conditionnement": 24,
-     "VMS": 4.7,
-     "Stock": 6
+        "Code": 4411314,
+        "Gencod": 0,
+        "Nom": "LAIT CONCENTRE SUCRE NEST.165G",
+        "Conditionnement": 24,
+        "VMS": 4.7,
+        "Stock": 6
     },
     {
-     "Code": 3950895,
-     "Gencod": 0,
-     "Nom": "LAIT ENTIER GRANDLAIT 4X50CL",
-     "Conditionnement": 6,
-     "VMS": 2.4,
-     "Stock": 7
+        "Code": 3950895,
+        "Gencod": 0,
+        "Nom": "LAIT ENTIER GRANDLAIT 4X50CL",
+        "Conditionnement": 6,
+        "VMS": 2.4,
+        "Stock": 7
     },
     {
-     "Code": 569699,
-     "Gencod": 0,
-     "Nom": "LT UHT 1\/2E. LACTEL BLE 6X1L",
-     "Conditionnement": 110,
-     "VMS": 4.5,
-     "Stock": 112
+        "Code": 569699,
+        "Gencod": 0,
+        "Nom": "LT UHT 1/2E. LACTEL BLE 6X1L",
+        "Conditionnement": 110,
+        "VMS": 4.5,
+        "Stock": 112
     },
     {
-     "Code": 2066117,
-     "Gencod": 0,
-     "Nom": "LT CHEV.1\/2E LACTEL BLE 6X50CL",
-     "Conditionnement": 1,
-     "VMS": 3,
-     "Stock": 4
+        "Code": 2066117,
+        "Gencod": 0,
+        "Nom": "LT CHEV.1/2E LACTEL BLE 6X50CL",
+        "Conditionnement": 1,
+        "VMS": 3,
+        "Stock": 4
     },
     {
-     "Code": 2526478,
-     "Gencod": 0,
-     "Nom": "LAIT 1\/2ECR.GDLAIT BLE  6X25CL",
-     "Conditionnement": 4,
-     "VMS": 6.5,
-     "Stock": 11
+        "Code": 2526478,
+        "Gencod": 0,
+        "Nom": "LAIT 1/2ECR.GDLAIT BLE  6X25CL",
+        "Conditionnement": 4,
+        "VMS": 6.5,
+        "Stock": 11
     },
     {
-     "Code": 2973473,
-     "Gencod": 0,
-     "Nom": "CANDY'UP CHOCOLAT BIO 4X20CL",
-     "Conditionnement": 6,
-     "VMS": 4.3,
-     "Stock": 17
+        "Code": 2973473,
+        "Gencod": 0,
+        "Nom": "CANDY'UP CHOCOLAT BIO 4X20CL",
+        "Conditionnement": 6,
+        "VMS": 4.3,
+        "Stock": 17
     },
     {
-     "Code": 80804,
-     "Gencod": 0,
-     "Nom": "CANDY'UP VANILLE BK 6X20CL",
-     "Conditionnement": 6,
-     "VMS": 7,
-     "Stock": 55
+        "Code": 80804,
+        "Gencod": 0,
+        "Nom": "CANDY'UP VANILLE BK 6X20CL",
+        "Conditionnement": 6,
+        "VMS": 7,
+        "Stock": 55
     },
     {
-     "Code": 3541588,
-     "Gencod": 0,
-     "Nom": "MATIN LEGER CAFE LT BLE 6X50CL",
-     "Conditionnement": 1,
-     "VMS": 1.7,
-     "Stock": 4
+        "Code": 3541588,
+        "Gencod": 0,
+        "Nom": "MATIN LEGER CAFE LT BLE 6X50CL",
+        "Conditionnement": 1,
+        "VMS": 1.7,
+        "Stock": 4
     },
     {
-     "Code": 549347,
-     "Gencod": 0,
-     "Nom": "VOILE DE LAIT ECREME ST X15",
-     "Conditionnement": 12,
-     "VMS": 2.3,
-     "Stock": 0
+        "Code": 549347,
+        "Gencod": 0,
+        "Nom": "VOILE DE LAIT ECREME ST X15",
+        "Conditionnement": 12,
+        "VMS": 2.3,
+        "Stock": 0
     },
     {
-     "Code": 195618,
-     "Gencod": 0,
-     "Nom": "LAIT UHT 1\/2E.BIO LACT.BLE6X1L",
-     "Conditionnement": 1,
-     "VMS": 10,
-     "Stock": 17
+        "Code": 195618,
+        "Gencod": 0,
+        "Nom": "LAIT UHT 1/2E.BIO LACT.BLE6X1L",
+        "Conditionnement": 1,
+        "VMS": 10,
+        "Stock": 17
     },
     {
-     "Code": 5473212,
-     "Gencod": 0,
-     "Nom": "BP CAFFE LATTE CLASSICO 3X20CL",
-     "Conditionnement": 8,
-     "VMS": 3,
-     "Stock": 19
+        "Code": 5473212,
+        "Gencod": 0,
+        "Nom": "BP CAFFE LATTE CLASSICO 3X20CL",
+        "Conditionnement": 8,
+        "VMS": 3,
+        "Stock": 19
     },
     {
-     "Code": 3579859,
-     "Gencod": 0,
-     "Nom": "LAIT CONC.SUCRE REGILAIT T.60G",
-     "Conditionnement": 12,
-     "VMS": 8,
-     "Stock": 14
+        "Code": 3579859,
+        "Gencod": 0,
+        "Nom": "LAIT CONC.SUCRE REGILAIT T.60G",
+        "Conditionnement": 12,
+        "VMS": 8,
+        "Stock": 14
     },
     {
-     "Code": 4832368,
-     "Gencod": 0,
-     "Nom": "LAIT POUDRE ENTI.REGILAIT 300G",
-     "Conditionnement": 12,
-     "VMS": 5.3,
-     "Stock": 12
+        "Code": 4832368,
+        "Gencod": 0,
+        "Nom": "LAIT POUDRE ENTI.REGILAIT 300G",
+        "Conditionnement": 12,
+        "VMS": 5.3,
+        "Stock": 12
     },
     {
-     "Code": 960837,
-     "Gencod": 0,
-     "Nom": "LAIT UHT VITAM.VIVA BLE 6X50CL",
-     "Conditionnement": 4,
-     "VMS": 0.8,
-     "Stock": 6
+        "Code": 960837,
+        "Gencod": 0,
+        "Nom": "LAIT UHT VITAM.VIVA BLE 6X50CL",
+        "Conditionnement": 4,
+        "VMS": 0.8,
+        "Stock": 6
     },
     {
-     "Code": 176834,
-     "Gencod": 0,
-     "Nom": "LAIT POUD.ECRE.REGILAIT 750G",
-     "Conditionnement": 12,
-     "VMS": 2.3,
-     "Stock": 5
+        "Code": 176834,
+        "Gencod": 0,
+        "Nom": "LAIT POUD.ECRE.REGILAIT 750G",
+        "Conditionnement": 12,
+        "VMS": 2.3,
+        "Stock": 5
     },
     {
-     "Code": 15334,
-     "Gencod": 0,
-     "Nom": "CANDY'UP FRAISE BK 6X20CL",
-     "Conditionnement": 6,
-     "VMS": 6.7,
-     "Stock": 28
+        "Code": 15334,
+        "Gencod": 0,
+        "Nom": "CANDY'UP FRAISE BK 6X20CL",
+        "Conditionnement": 6,
+        "VMS": 6.7,
+        "Stock": 28
     },
     {
-     "Code": 2929694,
-     "Gencod": 0,
-     "Nom": "LAIT UHT1\/2EC.GRDLAIT BLE 6X1L",
-     "Conditionnement": 55,
-     "VMS": 9.3,
-     "Stock": 51
+        "Code": 2929694,
+        "Gencod": 0,
+        "Nom": "LAIT UHT1/2EC.GRDLAIT BLE 6X1L",
+        "Conditionnement": 55,
+        "VMS": 9.3,
+        "Stock": 51
     },
     {
-     "Code": 7537298,
-     "Gencod": 0,
-     "Nom": "LAIT UHT CHOCO U BK 6X20CL",
-     "Conditionnement": 4,
-     "VMS": 4,
-     "Stock": 8
+        "Code": 7537298,
+        "Gencod": 0,
+        "Nom": "LAIT UHT CHOCO U BK 6X20CL",
+        "Conditionnement": 4,
+        "VMS": 4,
+        "Stock": 8
     },
     {
-     "Code": 5877230,
-     "Gencod": 0,
-     "Nom": "LAIT UHT 1\/2 EC.B\/B\/C AGR.6X1L",
-     "Conditionnement": 130,
-     "VMS": 21.9,
-     "Stock": 79
+        "Code": 5877230,
+        "Gencod": 0,
+        "Nom": "LAIT UHT 1/2 EC.B/B/C AGR.6X1L",
+        "Conditionnement": 130,
+        "VMS": 21.9,
+        "Stock": 79
     },
     {
-     "Code": 522880,
-     "Gencod": 0,
-     "Nom": "LAIT ECREME POUDRE U ETUI 750G",
-     "Conditionnement": 12,
-     "VMS": 1.7,
-     "Stock": 16
+        "Code": 522880,
+        "Gencod": 0,
+        "Nom": "LAIT ECREME POUDRE U ETUI 750G",
+        "Conditionnement": 12,
+        "VMS": 1.7,
+        "Stock": 16
     },
     {
-     "Code": 7199572,
-     "Gencod": 0,
-     "Nom": "LAIT ECREME UHT BBC U 6X1L",
-     "Conditionnement": 120,
-     "VMS": 5.1,
-     "Stock": 63
+        "Code": 7199572,
+        "Gencod": 0,
+        "Nom": "LAIT ECREME UHT BBC U 6X1L",
+        "Conditionnement": 120,
+        "VMS": 5.1,
+        "Stock": 63
     },
     {
-     "Code": 2561328,
-     "Gencod": 0,
-     "Nom": "LAIT CONC.SUC.ENT.REGILAIT300G",
-     "Conditionnement": 12,
-     "VMS": 10.7,
-     "Stock": 8
+        "Code": 2561328,
+        "Gencod": 0,
+        "Nom": "LAIT CONC.SUC.ENT.REGILAIT300G",
+        "Conditionnement": 12,
+        "VMS": 10.7,
+        "Stock": 8
     },
     {
-     "Code": 645119,
-     "Gencod": 0,
-     "Nom": "LT UHT ENT.BIO LACTEL BLE 6X1L",
-     "Conditionnement": 1,
-     "VMS": 3,
-     "Stock": 8
+        "Code": 645119,
+        "Gencod": 0,
+        "Nom": "LT UHT ENT.BIO LACTEL BLE 6X1L",
+        "Conditionnement": 1,
+        "VMS": 3,
+        "Stock": 8
     },
     {
-     "Code": 5111155,
-     "Gencod": 0,
-     "Nom": "LAIT CON.N\/S.NU\/LT MAXIREG.X10",
-     "Conditionnement": 20,
-     "VMS": 9,
-     "Stock": 15
+        "Code": 5111155,
+        "Gencod": 0,
+        "Nom": "LAIT CON.N/S.NU/LT MAXIREG.X10",
+        "Conditionnement": 20,
+        "VMS": 9,
+        "Stock": 15
     },
     {
-     "Code": 3868496,
-     "Gencod": 0,
-     "Nom": "LAIT CONC.SUC.ECR.REG.TUBE170G",
-     "Conditionnement": 12,
-     "VMS": 1.7,
-     "Stock": 12
+        "Code": 3868496,
+        "Gencod": 0,
+        "Nom": "LAIT CONC.SUC.ECR.REG.TUBE170G",
+        "Conditionnement": 12,
+        "VMS": 1.7,
+        "Stock": 12
     },
     {
-     "Code": 2945670,
-     "Gencod": 0,
-     "Nom": "LT 1\/2E.BBC.EDDE.PAYSLOIRE6X1L",
-     "Conditionnement": 108,
-     "VMS": 55.1,
-     "Stock": 148
+        "Code": 2945670,
+        "Gencod": 0,
+        "Nom": "LT 1/2E.BBC.EDDE.PAYSLOIRE6X1L",
+        "Conditionnement": 108,
+        "VMS": 55.1,
+        "Stock": 148
     },
     {
-     "Code": 495425,
-     "Gencod": 0,
-     "Nom": "LAIT UHT VITAMIN.VIVA BLE 6X1L",
-     "Conditionnement": 1,
-     "VMS": 1.7,
-     "Stock": 5
+        "Code": 495425,
+        "Gencod": 0,
+        "Nom": "LAIT UHT VITAMIN.VIVA BLE 6X1L",
+        "Conditionnement": 1,
+        "VMS": 1.7,
+        "Stock": 5
     },
     {
-     "Code": 206504,
-     "Gencod": 0,
-     "Nom": "REGILAIT PDRE ECREME BIO 250G",
-     "Conditionnement": 12,
-     "VMS": 4.3,
-     "Stock": 10
+        "Code": 206504,
+        "Gencod": 0,
+        "Nom": "REGILAIT PDRE ECREME BIO 250G",
+        "Conditionnement": 12,
+        "VMS": 4.3,
+        "Stock": 10
     },
     {
-     "Code": 3858055,
-     "Gencod": 0,
-     "Nom": "CANDY'UP CHOCO.CARAMEL 6X20CL",
-     "Conditionnement": 6,
-     "VMS": 2.3,
-     "Stock": 42
+        "Code": 3858055,
+        "Gencod": 0,
+        "Nom": "CANDY'UP CHOCO.CARAMEL 6X20CL",
+        "Conditionnement": 6,
+        "VMS": 2.3,
+        "Stock": 42
     },
     {
-     "Code": 4123190,
-     "Gencod": 0,
-     "Nom": "LT EQUITABLE 1\/2E.BRIQUE 6X1L",
-     "Conditionnement": 140,
-     "VMS": 3.4,
-     "Stock": 41
+        "Code": 4123190,
+        "Gencod": 0,
+        "Nom": "LT EQUITABLE 1/2E.BRIQUE 6X1L",
+        "Conditionnement": 140,
+        "VMS": 3.4,
+        "Stock": 41
     },
     {
-     "Code": 1143743,
-     "Gencod": 0,
-     "Nom": "CANDY'UP CHOCOLAT BLE 6X1L",
-     "Conditionnement": 1,
-     "VMS": 1.9,
-     "Stock": 7
+        "Code": 1143743,
+        "Gencod": 0,
+        "Nom": "CANDY'UP CHOCOLAT BLE 6X1L",
+        "Conditionnement": 1,
+        "VMS": 1.9,
+        "Stock": 7
     },
     {
-     "Code": 3820013,
-     "Gencod": 0,
-     "Nom": "LAIT CONC.N\/S ENT.REGILAIT410G",
-     "Conditionnement": 12,
-     "VMS": 4,
-     "Stock": 11
+        "Code": 3820013,
+        "Gencod": 0,
+        "Nom": "LAIT CONC.N/S ENT.REGILAIT410G",
+        "Conditionnement": 12,
+        "VMS": 4,
+        "Stock": 11
     },
     {
-     "Code": 2746071,
-     "Gencod": 0,
-     "Nom": "LAIT CONCENTRE N.S.U BTE 410G",
-     "Conditionnement": 24,
-     "VMS": 7.7,
-     "Stock": 17
+        "Code": 2746071,
+        "Gencod": 0,
+        "Nom": "LAIT CONCENTRE N.S.U BTE 410G",
+        "Conditionnement": 24,
+        "VMS": 7.7,
+        "Stock": 17
     },
     {
-     "Code": 113751,
-     "Gencod": 0,
-     "Nom": "LAIT UHT ENTIER LACTEL BLE6X1L",
-     "Conditionnement": 1,
-     "VMS": 1.5,
-     "Stock": 5
+        "Code": 113751,
+        "Gencod": 0,
+        "Nom": "LAIT UHT ENTIER LACTEL BLE6X1L",
+        "Conditionnement": 1,
+        "VMS": 1.5,
+        "Stock": 5
     },
     {
-     "Code": 7362123,
-     "Gencod": 0,
-     "Nom": "BOISSON BANANIA UHT 4X20CL",
-     "Conditionnement": 6,
-     "VMS": 1.7,
-     "Stock": 2
+        "Code": 7362123,
+        "Gencod": 0,
+        "Nom": "BOISSON BANANIA UHT 4X20CL",
+        "Conditionnement": 6,
+        "VMS": 1.7,
+        "Stock": 2
     },
     {
-     "Code": 176842,
-     "Gencod": 0,
-     "Nom": "REGILAIT POUDRE 1\/2ECREME 300G",
-     "Conditionnement": 12,
-     "VMS": 7.3,
-     "Stock": 13
+        "Code": 176842,
+        "Gencod": 0,
+        "Nom": "REGILAIT POUDRE 1/2ECREME 300G",
+        "Conditionnement": 12,
+        "VMS": 7.3,
+        "Stock": 13
     },
     {
-     "Code": 3565830,
-     "Gencod": 0,
-     "Nom": "LT 1\/2E.C'EST QUI PATRON 6X1L",
-     "Conditionnement": 140,
-     "VMS": 30.7,
-     "Stock": 171
+        "Code": 3565830,
+        "Gencod": 0,
+        "Nom": "LT 1/2E.C'EST QUI PATRON 6X1L",
+        "Conditionnement": 140,
+        "VMS": 30.7,
+        "Stock": 171
     },
     {
-     "Code": 2348266,
-     "Gencod": 0,
-     "Nom": "LT UHT ECR.MATIN LEGER BL 6X1L",
-     "Conditionnement": 1,
-     "VMS": 4,
-     "Stock": 5
+        "Code": 2348266,
+        "Gencod": 0,
+        "Nom": "LT UHT ECR.MATIN LEGER BL 6X1L",
+        "Conditionnement": 1,
+        "VMS": 4,
+        "Stock": 5
     },
     {
-     "Code": 515728,
-     "Gencod": 0,
-     "Nom": "LAIT CONCENT.SUCRE NESTLE 397G",
-     "Conditionnement": 12,
-     "VMS": 7,
-     "Stock": 17
+        "Code": 515728,
+        "Gencod": 0,
+        "Nom": "LAIT CONCENT.SUCRE NESTLE 397G",
+        "Conditionnement": 12,
+        "VMS": 7,
+        "Stock": 17
     },
     {
-     "Code": 5870443,
-     "Gencod": 0,
-     "Nom": "LT UHT ENTIER U BIO BLE 6X1L",
-     "Conditionnement": 60,
-     "VMS": 21.8,
-     "Stock": 73
+        "Code": 5870443,
+        "Gencod": 0,
+        "Nom": "LT UHT ENTIER U BIO BLE 6X1L",
+        "Conditionnement": 60,
+        "VMS": 21.8,
+        "Stock": 73
     },
     {
-     "Code": 5504911,
-     "Gencod": 0,
-     "Nom": "REGILAIT CALCIUM & VIT.D 300G",
-     "Conditionnement": 12,
-     "VMS": 3,
-     "Stock": 14
+        "Code": 5504911,
+        "Gencod": 0,
+        "Nom": "REGILAIT CALCIUM & VIT.D 300G",
+        "Conditionnement": 12,
+        "VMS": 3,
+        "Stock": 14
     },
     {
-     "Code": 2394718,
-     "Gencod": 0,
-     "Nom": "LAIT CONC.SUCRE ENT.U BTE 397G",
-     "Conditionnement": 12,
-     "VMS": 12.7,
-     "Stock": 10
+        "Code": 2394718,
+        "Gencod": 0,
+        "Nom": "LAIT CONC.SUCRE ENT.U BTE 397G",
+        "Conditionnement": 12,
+        "VMS": 12.7,
+        "Stock": 10
     },
     {
-     "Code": 3724875,
-     "Gencod": 0,
-     "Nom": "LT.UHT 1\/2 ECR.U BIO BLE6X50CL",
-     "Conditionnement": 216,
-     "VMS": 21.4,
-     "Stock": 164
+        "Code": 3724875,
+        "Gencod": 0,
+        "Nom": "LT.UHT 1/2 ECR.U BIO BLE6X50CL",
+        "Conditionnement": 216,
+        "VMS": 21.4,
+        "Stock": 164
     },
     {
-     "Code": 2956491,
-     "Gencod": 0,
-     "Nom": "CACOLAC PACK 3X20CL",
-     "Conditionnement": 8,
-     "VMS": 3,
-     "Stock": 11
+        "Code": 2956491,
+        "Gencod": 0,
+        "Nom": "CACOLAC PACK 3X20CL",
+        "Conditionnement": 8,
+        "VMS": 3,
+        "Stock": 11
     },
     {
-     "Code": 2562626,
-     "Gencod": 0,
-     "Nom": "LT UHT ECREME LACTEL BLE 6X1L",
-     "Conditionnement": 55,
-     "VMS": 1.3,
-     "Stock": 4
+        "Code": 2562626,
+        "Gencod": 0,
+        "Nom": "LT UHT ECREME LACTEL BLE 6X1L",
+        "Conditionnement": 55,
+        "VMS": 1.3,
+        "Stock": 4
     },
     {
-     "Code": 15261,
-     "Gencod": 0,
-     "Nom": "CANDY'UP CHOCOLAT BK 6X20CL",
-     "Conditionnement": 6,
-     "VMS": 7,
-     "Stock": 63
+        "Code": 15261,
+        "Gencod": 0,
+        "Nom": "CANDY'UP CHOCOLAT BK 6X20CL",
+        "Conditionnement": 6,
+        "VMS": 7,
+        "Stock": 63
     },
     {
-     "Code": 210986,
-     "Gencod": 0,
-     "Nom": "LAIT UHT E.BIO LACTEL BLE 6X1L",
-     "Conditionnement": 1,
-     "VMS": 3.1,
-     "Stock": 5
-    },
-    {
-     "Code": 5508013,
-     "Gencod": 0,
-     "Nom": "LAIT CONCENT.SUCRE NESTLE 387G",
-     "Conditionnement": 6,
-     "VMS": 1.3,
-     "Stock": 6
-    },
-    {
-     "Code": 6612186,
-     "Gencod": 0,
-     "Nom": "LAIT CONC.SUC.ECR.REGILAIT397G",
-     "Conditionnement": 12,
-     "VMS": 2.7,
-     "Stock": 7
-    },
-    {
-     "Code": 3798505,
-     "Gencod": 0,
-     "Nom": "LAIT UHT VITAMIN.VIVA BK 6X1L",
-     "Conditionnement": 1,
-     "VMS": 3.4,
-     "Stock": 31
-    },
-    {
-     "Code": 2851991,
-     "Gencod": 0,
-     "Nom": "MON PREMIER CACOLAC 1L",
-     "Conditionnement": 8,
-     "VMS": 3,
-     "Stock": 11
-    },
-    {
-     "Code": 522775,
-     "Gencod": 0,
-     "Nom": "LAIT ECREME POUDRE U ETUI 300G",
-     "Conditionnement": 12,
-     "VMS": 4.3,
-     "Stock": 11
-    },
-    {
-     "Code": 6431132,
-     "Gencod": 0,
-     "Nom": "LT CONCENTRE SUCRE NEST.6X30G",
-     "Conditionnement": 20,
-     "VMS": 4,
-     "Stock": 22
-    },
-    {
-     "Code": 176826,
-     "Gencod": 0,
-     "Nom": "REGILAIT POUDRE ECREME 300G",
-     "Conditionnement": 12,
-     "VMS": 2.3,
-     "Stock": 15
-    },
-    {
-     "Code": 5045974,
-     "Gencod": 0,
-     "Nom": "LAIT 1\/2 ECREM.BRIQ'50CL X6",
-     "Conditionnement": 1,
-     "VMS": 0,
-     "Stock": 0
-    },
-    {
-     "Code": 2013222,
-     "Gencod": 0,
-     "Nom": "CARAME.BEUR.SALE REG.TUBE 300G",
-     "Conditionnement": 12,
-     "VMS": 2,
-     "Stock": 6
-    },
-    {
-     "Code": 206520,
-     "Gencod": 0,
-     "Nom": "LAIT CONC.N\/S.NUAGELAIT REGX10",
-     "Conditionnement": 20,
-     "VMS": 13.3,
-     "Stock": 22
-    },
-    {
-     "Code": 7537638,
-     "Gencod": 0,
-     "Nom": "LAIT UHT FRAISE U BK 6X20CL",
-     "Conditionnement": 4,
-     "VMS": 2,
-     "Stock": 5
-    },
-    {
-     "Code": 2940418,
-     "Gencod": 0,
-     "Nom": "LT UHT ENTIER BBC U BLE 6X1L",
-     "Conditionnement": 110,
-     "VMS": 8.1,
-     "Stock": 64
+        "Code": 210986,
+        "Gencod": 0,
+        "Nom": "LAIT UHT E.BIO LACTEL BLE 6X1L",
+        "Conditionnement": 1,
+        "VMS": 3.1,
+        "Stock": 5
+    },
+    {
+        "Code": 5508013,
+        "Gencod": 0,
+        "Nom": "LAIT CONCENT.SUCRE NESTLE 387G",
+        "Conditionnement": 6,
+        "VMS": 1.3,
+        "Stock": 6
+    },
+    {
+        "Code": 6612186,
+        "Gencod": 0,
+        "Nom": "LAIT CONC.SUC.ECR.REGILAIT397G",
+        "Conditionnement": 12,
+        "VMS": 2.7,
+        "Stock": 7
+    },
+    {
+        "Code": 3798505,
+        "Gencod": 0,
+        "Nom": "LAIT UHT VITAMIN.VIVA BK 6X1L",
+        "Conditionnement": 1,
+        "VMS": 3.4,
+        "Stock": 31
+    },
+    {
+        "Code": 2851991,
+        "Gencod": 0,
+        "Nom": "MON PREMIER CACOLAC 1L",
+        "Conditionnement": 8,
+        "VMS": 3,
+        "Stock": 11
+    },
+    {
+        "Code": 522775,
+        "Gencod": 0,
+        "Nom": "LAIT ECREME POUDRE U ETUI 300G",
+        "Conditionnement": 12,
+        "VMS": 4.3,
+        "Stock": 11
+    },
+    {
+        "Code": 6431132,
+        "Gencod": 0,
+        "Nom": "LT CONCENTRE SUCRE NEST.6X30G",
+        "Conditionnement": 20,
+        "VMS": 4,
+        "Stock": 22
+    },
+    {
+        "Code": 176826,
+        "Gencod": 0,
+        "Nom": "REGILAIT POUDRE ECREME 300G",
+        "Conditionnement": 12,
+        "VMS": 2.3,
+        "Stock": 15
+    },
+    {
+        "Code": 5045974,
+        "Gencod": 0,
+        "Nom": "LAIT 1/2 ECREM.BRIQ'50CL X6",
+        "Conditionnement": 1,
+        "VMS": 0,
+        "Stock": 0
+    },
+    {
+        "Code": 2013222,
+        "Gencod": 0,
+        "Nom": "CARAME.BEUR.SALE REG.TUBE 300G",
+        "Conditionnement": 12,
+        "VMS": 2,
+        "Stock": 6
+    },
+    {
+        "Code": 206520,
+        "Gencod": 0,
+        "Nom": "LAIT CONC.N/S.NUAGELAIT REGX10",
+        "Conditionnement": 20,
+        "VMS": 13.3,
+        "Stock": 22
+    },
+    {
+        "Code": 7537638,
+        "Gencod": 0,
+        "Nom": "LAIT UHT FRAISE U BK 6X20CL",
+        "Conditionnement": 4,
+        "VMS": 2,
+        "Stock": 5
+    },
+    {
+        "Code": 2940418,
+        "Gencod": 0,
+        "Nom": "LT UHT ENTIER BBC U BLE 6X1L",
+        "Conditionnement": 110,
+        "VMS": 8.1,
+        "Stock": 64
     }
-   ]
+]
