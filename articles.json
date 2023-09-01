@@ -1,11 +1,12 @@
-﻿[
+[
     {
      "Code": 2350262,
      "Gencod": 3428272110024,
      "Nom": "LT UHT BIO 1,2% MAT.LEG.BTLEX6",
      "Conditionnement": 1,
      "VMS": 14.2,
-     "Stock": 12
+     "Stock": 12,
+     "image": "https://cdn.discordapp.com/attachments/1133274360354967554/1147158961393512538/images.png"
     },
     {
      "Code": 2073500,

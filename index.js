@@ -44,11 +44,54 @@ client.on('ready', async () => {
                 }
                 ]
         },
-
         {
-            name: 'edit',
-            description: '/edit [CODE ARTICLE]',
-        }
+                name: 'edit',
+                description: '/edit [CODE ARTICLE] [GENCOD] [NOM] [CONDITIONNEMENT] [VMS] [STOCK] [IMAGE]',
+                options: [
+                    {
+                        name: 'code',
+                        type: 'STRING',
+                        description: 'Code de l\'article',
+                        required: true,
+                    },
+                    {
+                        name: 'gencod',
+                        type: 'STRING',
+                        description: 'Gencod de l\'article',
+                        required: false,
+                    },
+                    {
+                        name: 'nom',
+                        type: 'STRING',
+                        description: 'Nom de l\'article',
+                        required: false,
+                    },
+                    {
+                        name: 'conditionnement',
+                        type: 'INTEGER',
+                        description: 'Conditionnement de l\'article',
+                        required: false,
+                    },
+                    {
+                        name: 'vms',
+                        type: 'NUMBER',
+                        description: 'VMS de l\'article',
+                        required: false,
+                    },
+                    {
+                        name: 'stock',
+                        type: 'INTEGER',
+                        description: 'Stock de l\'article',
+                        required: false,
+                    },
+                    {name : 'image',
+                    type: 'STRING',
+                    description: 'Image de l\'article',
+                    required: false,
+                    }
+                ]
+            }
+            
     ]
 
     try {
@@ -69,12 +112,12 @@ client.on('interactionCreate', async interaction => {
 
     if (commandName === 'fiche') {
         const codeArticle = options.getString('fiche');
-        console.log("Code article reçu : " + codeArticle);
+       // console.log("Code article reçu : " + codeArticle);
 
         const article = articles.find(article => article.Code.toString() === codeArticle);
         
         if (article) {
-            console.log(article)
+           // console.log(article)
             const embed = new MessageEmbed()
                 .setTitle(`Fiche de l'article - Code ${article.Code}`)
                 .addFields(
@@ -85,6 +128,9 @@ client.on('interactionCreate', async interaction => {
                     { name: 'VMS', value: article.VMS.toString() },
                     { name: 'Stock', value: article.Stock.toString() }
                 )
+                if(article.image != null) {
+                    embed.setImage(article.image);
+                }
                 
 
             await interaction.reply({ embeds: [embed] });
@@ -92,6 +138,33 @@ client.on('interactionCreate', async interaction => {
             await interaction.reply('Aucun article trouvé avec ce code.');
         }
     } else if (commandName === 'edit') {
+            const code = options.getString('code');
+            const gencod = options.getString('gencod');
+            const nom = options.getString('nom');
+            const conditionnement = options.getInteger('conditionnement');
+            const vms = options.getNumber('vms');
+            const stock = options.getInteger('stock');
+            const image = options.getString('image');
+        
+            const article = articles.find(article => article.Code.toString() === code);
+        
+            if (article) {
+                if (gencod) article.Gencod = gencod;
+                if (nom) article.Nom = nom;
+                if (conditionnement) article.Conditionnement = conditionnement;
+                if (vms) article.VMS = vms;
+                if (stock) article.Stock = stock;
+                if (image) article.image = image;
+        
+                // Enregistrez les articles mis à jour dans le fichier JSON
+                fs.writeFileSync('./articles.json', JSON.stringify(articles, null, 4));
+        
+                await interaction.reply('Article mis à jour.');
+            } else {
+                await interaction.reply('Aucun article trouvé avec ce code.');
+            }
+        
+        
 
     }
 })
