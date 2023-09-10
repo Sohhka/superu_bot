@@ -34,19 +34,19 @@ client.on('ready', async () => {
     const commands = [
         {
             name: 'fiche',
-            description: '/fiche [CODE ARTICLE]',
+            description: '/fiche [GENCOD ARTICLE]',
             options: [
                 {
                     name: "fiche",
                     type: "STRING",
-                    description: "Code de l\'article",
+                    description: "Gencod de l\'article",
                     required: true,
                 }
                 ]
         },
         {
                 name: 'edit',
-                description: '/edit [CODE ARTICLE] [GENCOD] [NOM] [CONDITIONNEMENT] [VMS] [STOCK] [IMAGE]',
+                description: '/edit [CODE ARTICLE] [GENCOD] [NOM] [CONDITIONNEMENT] [VMS] [STOCK] [IMAGE] [PA] [PV]',
                 options: [
                     {
                         name: 'code',
@@ -84,10 +84,23 @@ client.on('ready', async () => {
                         description: 'Stock de l\'article',
                         required: false,
                     },
-                    {name : 'image',
-                    type: 'STRING',
-                    description: 'Image de l\'article',
-                    required: false,
+                    {
+                        name : 'image',
+                        type: 'STRING',
+                        description: 'Image de l\'article',
+                        required: false,
+                    },
+                    {
+                        name : 'pa',
+                        type: 'STRING',
+                        description: 'Prix d\'achat en centrale',
+                        required: false,
+                    },
+                    {
+                        name : 'pv',
+                        type: 'STRING',
+                        description: 'Prix de vente en magasin',
+                        required: false,
                     }
                 ]
             }
@@ -114,7 +127,7 @@ client.on('interactionCreate', async interaction => {
         const codeArticle = options.getString('fiche');
        // console.log("Code article reçu : " + codeArticle);
 
-        const article = articles.find(article => article.Code.toString() === codeArticle);
+        const article = articles.find(article => article.Gencod.toString() === codeArticle);
         
         if (article) {
            // console.log(article)
@@ -126,7 +139,9 @@ client.on('interactionCreate', async interaction => {
                     { name: 'Gencod', value: article.Gencod.toString() },
                     { name: 'Conditionnement', value: article.Conditionnement.toString() },
                     { name: 'VMS', value: article.VMS.toString() },
-                    { name: 'Stock', value: article.Stock.toString() }
+                    { name: 'Stock', value: article.Stock.toString() },
+                    { name: 'Prix achat', value: article.PA.toString() },
+                    { name: 'Prix vente', value: article.PV.toString() }
                 )
                 if(article.image != null) {
                     embed.setImage(article.image);
@@ -145,6 +160,8 @@ client.on('interactionCreate', async interaction => {
             const vms = options.getNumber('vms');
             const stock = options.getInteger('stock');
             const image = options.getString('image');
+            const pa = options.getString('pa');
+            const pv = options.getString('pv');
         
             const article = articles.find(article => article.Code.toString() === code);
         
@@ -155,6 +172,8 @@ client.on('interactionCreate', async interaction => {
                 if (vms) article.VMS = vms;
                 if (stock) article.Stock = stock;
                 if (image) article.image = image;
+                if (pa) article.pa = pa;
+                if (pv) article.pv = pv;
         
                 // Enregistrez les articles mis à jour dans le fichier JSON
                 fs.writeFileSync('./articles.json', JSON.stringify(articles, null, 4));
