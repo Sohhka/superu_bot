@@ -132,6 +132,7 @@ client.on('interactionCreate', async interaction => {
         if (article) {
            // console.log(article)
             const embed = new MessageEmbed()
+                .setColor('#81c2d8')
                 .setTitle(`Fiche de l'article - Code ${article.Code}`)
                 .addFields(
                     {name: "Nom de l'article ", value: article.Nom.toString()},
@@ -140,8 +141,8 @@ client.on('interactionCreate', async interaction => {
                     { name: 'Conditionnement', value: article.Conditionnement.toString() },
                     { name: 'VMS', value: article.VMS.toString() },
                     { name: 'Stock', value: article.Stock.toString() },
-                    { name: 'Prix achat', value: article.PA.toString() },
-                    { name: 'Prix vente', value: article.PV.toString() }
+                    { name: 'Prix achat (€)', value: article.PA.toString() },
+                    { name: 'Prix vente (€)', value: article.PV.toString() }
                 )
                 if(article.image != null) {
                     embed.setImage(article.image);
